@@ -11,10 +11,8 @@ Link de download Draw.io: (https://drive.google.com/file/d/1hQliuMZirU0yiKzAr0d_
 - Ferramenta de Diagramação: draw.io
 
 ### Modelos (Models):
-- Descreva as entidades do seu projeto e seus atributos.
-- Explique as relações entre as entidades.
 
-O "Models" foi dividido em três entidades: login, user, avaliação. No quadro do login, há os atributos "usuário" e "senha", que pegam os valores digitados para serem comparados com os valores no banco de dados. 
+&nbsp;&nbsp;&nbsp;&nbsp;O "Models" foi dividido em três entidades: login, user, avaliação. No quadro do login, há os atributos "usuário" e "senha", que pegam os valores digitados para serem comparados com os valores no banco de dados. Já na entidade "Users", os valores colocados no formulários de cadastro são atribuídos aos atributos nome, idade, nacionalidade, gênero e biografia; o quais ão armazenados no banco de dados. Posteriormente, esses valores podem ser chamados pela tela "Perfil" a fim de mostrar alguns dados básicos do usuário. Por fim, na área "Avaliação" os resultados dos formulários de avaliações são armazenados e enviados para o banco de dados, o qual pode ser acessado para mostrar od feedbacks.
 
 ### Controladores (Controllers):
 - Liste os controladores do seu projeto e suas responsabilidades.
@@ -23,9 +21,7 @@ O "Models" foi dividido em três entidades: login, user, avaliação. No quadro 
 
 ### Views (Views):
 
-&nbsp;&nbsp;&nbsp;&nbsp;As Views estão divididas em 5 telas: cadastro, login, perfil, avaliações e feedback.
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Na tela de cadastro, há um header indicando para o usuário em qual tela ele está, seguido por um formulário para inserir seus dados pessoais (nome, idade, nacionalidade, gênero e biografia). Por fim, há um botão para savar as informações e terminar o cadastro. Já na tela de login, há outro header indicando que o usuário está na tela tela de login. Abaixo, há dois "textarea" para inserir o login e a senha e há um botão para realizar o login no fim da página.
+&nbsp;&nbsp;&nbsp;&nbsp;As Views estão divididas em 5 telas: cadastro, login, perfil, avaliações e feedback. Na tela de cadastro, há um header indicando para o usuário em qual tela ele está, seguido por um formulário para inserir seus dados pessoais (nome, idade, nacionalidade, gênero e biografia). Por fim, há um botão para savar as informações e terminar o cadastro. Já na tela de login, há outro header indicando que o usuário está na tela tela de login. Abaixo, há dois "textarea" para inserir o login e a senha e há um botão para realizar o login no fim da página.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dentro do site, a tela de perfil é indicada por um header e mostra as informações preenchidas durante os cadastro em um parágrafo. Além disso, há também uma agenda/tabela para preencher quais horários o usuário está livre. Na tela de avaliações, há um formulário para responder as avaliações e um botão para enviá-las. Por fim, existe a tela de feedback que possui com header "Feedback" e um gráfico com as avalições de pares e autoavaliações.
 
