@@ -1,6 +1,6 @@
 # Exemplo de Design de Arquitetura
 
-![exemplo_arq.jpg](https://github.com/kterra/Inteli-2024-1B/blob/main/materiais/ponderada-2/exemplo-arq-v2.jpg)
+![exemplo_arq.jpg](https://github.com/mariana-namie-guima/design-de-arquitetura/blob/main/design_de_arquitetura.drawio)
 
 Link de download Draw.io: (https://drive.google.com/file/d/1hQliuMZirU0yiKzAr0d_5koE5qVwEQ2K/view?usp=sharing) 
 
