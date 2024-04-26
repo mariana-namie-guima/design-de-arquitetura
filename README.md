@@ -2,7 +2,7 @@
 
 <div align="center">
 <sub>Figura 1 - Design de arquitetura</sub>
-<img src="https://github.com/mariana-namie-guima/design-de-arquitetura/blob/main/design_de_arquitetura.drawio">
+<img src="https://github.com/mariana-namie-guima/design-de-arquitetura/blob/main/design_de_arquitetura.drawio.png">
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
 
