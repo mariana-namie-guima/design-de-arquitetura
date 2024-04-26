@@ -1,6 +1,10 @@
 # Exemplo de Design de Arquitetura
 
-![exemplo_arq.jpg](https://github.com/mariana-namie-guima/design-de-arquitetura/blob/main/design_de_arquitetura.drawio)
+<div align="center">
+<sub>Figura 1 - Design de arquitetura</sub>
+<img src="https://github.com/mariana-namie-guima/design-de-arquitetura/blob/main/design_de_arquitetura.drawio">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
 
 Link de download Draw.io: (https://drive.google.com/file/d/1hQliuMZirU0yiKzAr0d_5koE5qVwEQ2K/view?usp=sharing) 
 
